@@ -4,10 +4,10 @@ Containment zone Alerting Application
 Team ID : PNT2022TMID35197
 
 ### Team Members
- - Team Leader  : KARTHICKEYAN E
- - Team member : CHANDNI G
- - Team member : RISHI VISVAS T S G
- - Team member : VAANMATHI S 
+ - Team Leader  : KISHORE RR
+ - Team member : BLESSING CHARLES E
+ - Team member : MANOJ KUMAR M
+ - Team member : KANNADHASAN S
 
 # Containment Zone Alerting Application
 ## Category: Cloud App Development <img src="https://media1.giphy.com/media/XFJdsVNbL5u8qvdj6s/giphy.gif?cid=ecf05e47kwl4ihcoglak9gqii0h0d6aj1n7erro9cyri6zrj&rid=giphy.gif&ct=s" width="30px">
