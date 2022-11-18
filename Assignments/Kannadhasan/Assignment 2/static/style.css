@@ -1,0 +1,60 @@
+/* Store this code in 'style.css' file inside the 'static' folder*/
+
+.header {
+	padding: 5px 120px;
+	width: 150px;
+	height: 70px;
+	background-color: #31ec10;
+}
+
+.border {
+	padding: 80px 50px;
+	width: 400px;
+	height: 450px;
+	border: 1px solid #31ec10;
+	border-radius: 0px;
+	background-color: #ffffff;
+}
+
+.btn {
+	padding: 10px 40px;
+	background-color: #31ec10;
+	color: #ffffff;
+	font-weight: bold;
+	border-radius: 10px;
+}
+
+.textbox {
+	padding: 10px 40px;
+	background-color: #31ec10;
+	text-color: #ffffff;
+	border-radius: 10px;
+}
+
+::placeholder {
+	color: #ffffff;
+	opacity: 1;
+	font-weight: bold;
+}
+
+.word {
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.bottom {
+	color: #31ec10;
+	font-weight: bold;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+	-moz-appearance: textfield;
+}
