@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Displaying images</title>
+    </head>
+    <style>
+         /* Three image containers (use 25% for four, and 50% for two, etc) */
+        .column {
+          float: left;
+          width: 50%;
+          padding: 5px;
+        }
+
+        /* Clear floats after image containers */
+        .row::after {
+          content: "";
+          clear: both;
+          display: table;
+        }
+    </style>
+    <body>
+        <p>
+        <h1>
+				E. Blessing Charles 2019103012, Displaying images from IBM Object storage
+			</h1>
+      </p><div class="row">
+          <div class="column">
+				<img
+					src="http://bucket-3025.s3.us-east.cloud-object-storage.appdomain.cloud/random4.jpg"
+					alt="image not available"
+					style="width: 80%"
+				/>
+			</div>
+			<div class="column">
+				<img
+					src="http://bucket-3025.s3.us-east.cloud-object-storage.appdomain.cloud/random5.jpg"
+					alt="image not available"
+					style="width: 80%"
+				/>
+        
+        </div> 
+    </body>
+</html>
